@@ -1,0 +1,2 @@
+# learningForPatterns
+Demo and Learning
